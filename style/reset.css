@@ -1,0 +1,48 @@
+/* line 1, /home/nico/Documents/Personal/nfajardoa.github.io/style/reset.scss */
+*, *:before, *:after {
+  box-sizing: border-box; }
+
+/* line 5, /home/nico/Documents/Personal/nfajardoa.github.io/style/reset.scss */
+html, body, div, span, object, iframe, figure, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, code, em, img, small, strike, strong, sub, sup, tt, b, u, i, ol, ul, li, fieldset, form, label, table, caption, tbody, tfoot, thead, tr, th, td, main, canvas, embed, footer, header, nav, section, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: none; }
+
+/* line 17, /home/nico/Documents/Personal/nfajardoa.github.io/style/reset.scss */
+footer, header, nav, section, main {
+  display: block; }
+
+/* line 21, /home/nico/Documents/Personal/nfajardoa.github.io/style/reset.scss */
+body {
+  line-height: 1; }
+
+/* line 25, /home/nico/Documents/Personal/nfajardoa.github.io/style/reset.scss */
+ol, ul {
+  list-style: none; }
+
+/* line 29, /home/nico/Documents/Personal/nfajardoa.github.io/style/reset.scss */
+blockquote, q {
+  quotes: none; }
+
+/* line 33, /home/nico/Documents/Personal/nfajardoa.github.io/style/reset.scss */
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none; }
+
+/* line 38, /home/nico/Documents/Personal/nfajardoa.github.io/style/reset.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* line 43, /home/nico/Documents/Personal/nfajardoa.github.io/style/reset.scss */
+input {
+  -webkit-appearance: none;
+  border-radius: 0; }
+
+/*# sourceMappingURL=reset.css.map */
