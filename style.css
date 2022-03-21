@@ -1986,6 +1986,11 @@ h4 {
   content: " | ";
   font-weight: 300 !important;
 }
+@media (max-width: 991.98px) {
+  .accordion .accordion-body .files a:before {
+    content: " | ";
+  }
+}
 .accordion .accordion-body .files a:first-child:hover {
   color: #268bd2 !important;
 }
@@ -2040,9 +2045,13 @@ h4 {
   .menu ul li {
     display: inline;
     margin: 0ex !important;
+    padding: 0ex !important;
   }
   .menu ul li:after {
     content: " | ";
+  }
+  .menu ul li.media {
+    padding-left: 1em !important;
   }
   .menu ul li.media:after {
     content: "";
