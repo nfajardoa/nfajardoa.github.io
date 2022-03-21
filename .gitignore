@@ -6,3 +6,6 @@ id_ed25519_personal.pub
 style/**.scss
 style/**.css.map
 projects/
+style/node_modules/
+package.json
+package-lock.json
