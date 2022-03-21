@@ -1,11 +1,1 @@
-
-id_ed25519_personal
-id_ed25519_personal.pub
-/**.scss
-/**.css.map
-style/**.scss
-style/**.css.map
 projects/
-style/node_modules/
-package.json
-package-lock.json
