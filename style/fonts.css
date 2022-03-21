@@ -75,4 +75,14 @@
   src: local(""), url("style/fonts/alegreya-sans-sc-v18-latin-regular.eot?#iefix") format("embedded-opentype"), url("style/fonts/alegreya-sans-sc-v18-latin-regular.woff2") format("woff2"), url("style/fonts/alegreya-sans-sc-v18-latin-regular.woff") format("woff"), url("style/fonts/alegreya-sans-sc-v18-latin-regular.ttf") format("truetype"), url("style/fonts/alegreya-sans-sc-v18-latin-regular.svg#AlegreyaSansSC") format("svg");
   /* Legacy iOS */ }
 
+/* alegreya-sc-regular - latin */
+@font-face {
+  font-family: 'Alegreya SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url("style/fonts/alegreya-sc-v20-latin-regular.eot");
+  /* IE9 Compat Modes */
+  src: local(""), url("style/fonts/alegreya-sc-v20-latin-regular.eot?#iefix") format("embedded-opentype"), url("style/fonts/alegreya-sc-v20-latin-regular.woff2") format("woff2"), url("style/fonts/alegreya-sc-v20-latin-regular.woff") format("woff"), url("style/fonts/alegreya-sc-v20-latin-regular.ttf") format("truetype"), url("style/fonts/alegreya-sc-v20-latin-regular.svg#AlegreyaSC") format("svg");
+  /* Legacy iOS */ }
+
 /*# sourceMappingURL=fonts.css.map */
