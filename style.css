@@ -1919,18 +1919,18 @@ h4 {
   color: #268bd2 !important;
 }
 .accordion .accordion-header .data {
-  font-size: 20px !important;
+  font-size: 15px !important;
   margin: 0ex !important;
   padding: 1ex 5ex 1ex 0ex !important;
 }
 @media (min-width: 576px) {
   .accordion .accordion-header .data {
-    font-size: 22px !important;
+    font-size: 17px !important;
   }
 }
 @media (min-width: 768px) {
   .accordion .accordion-header .data {
-    font-size: 24px !important;
+    font-size: 19px !important;
   }
 }
 @media (min-width: 992px) {
