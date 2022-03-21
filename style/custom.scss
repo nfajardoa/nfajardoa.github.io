@@ -328,7 +328,19 @@ h4 {
             width: 100%;
         }
 
+        @include media-breakpoint-up(sm) {
+            img {
+                width: 80%;
+            }
+        }
+
         @include media-breakpoint-up(md) {
+            img {
+                width: 70%;
+            }
+        }
+
+        @include media-breakpoint-up(lg) {
             width: 50%;
 
             img {
